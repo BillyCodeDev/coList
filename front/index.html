@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CoList</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="/socket.io/socket.io.js"></script>
+  </head>
+  <body>
+    <div>
+      <h2>Create a new list</h2>
+      <input type="text" id="listName" placeholder="Enter list name" />
+      <button onclick="createList()">Create List</button>
+    </div>
+
+    <h2>Lists</h2>
+    <ul id="lists"></ul>
+    <div id="listItems"></div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

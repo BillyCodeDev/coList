@@ -1,0 +1,160 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Shopping List",
+      "owner": "Alice",
+      "coAuthors": [
+        "Bob",
+        "Charlie"
+      ],
+      "items": [
+        {
+          "id": 101,
+          "name": "Milk",
+          "contributedBy": "Alice",
+          "status": "approved"
+        },
+        {
+          "id": 102,
+          "name": "Eggs",
+          "contributedBy": "Bob",
+          "status": "pending"
+        },
+        {
+          "id": 103,
+          "name": "Bread",
+          "contributedBy": "Charlie",
+          "status": "approved"
+        },
+        {
+          "id": 104,
+          "name": "Butter",
+          "contributedBy": "Alice",
+          "status": "approved"
+        },
+        {
+          "id": 105,
+          "name": "Cheese",
+          "contributedBy": "Bob",
+          "status": "pending"
+        },
+        {
+          "id": 106,
+          "name": "Apples",
+          "contributedBy": "Charlie",
+          "status": "approved"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "To-Do List",
+      "owner": "Charlie",
+      "coAuthors": [
+        "Alice",
+        "Bob"
+      ],
+      "items": [
+        {
+          "id": 201,
+          "name": "Finish homework",
+          "contributedBy": "Alice",
+          "status": "approved"
+        },
+        {
+          "id": 202,
+          "name": "Call the doctor",
+          "contributedBy": "Bob",
+          "status": "pending"
+        },
+        {
+          "id": 203,
+          "name": "Clean the kitchen",
+          "contributedBy": "Charlie",
+          "status": "approved"
+        },
+        {
+          "id": 204,
+          "name": "Prepare presentation",
+          "contributedBy": "Alice",
+          "status": "approved"
+        },
+        {
+          "id": 205,
+          "name": "Pay electricity bill",
+          "contributedBy": "Bob",
+          "status": "pending"
+        },
+        {
+          "id": 206,
+          "name": "Plan birthday party",
+          "contributedBy": "Charlie",
+          "status": "approved"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Project Ideas",
+      "owner": "Bob",
+      "coAuthors": [
+        "Alice",
+        "Charlie"
+      ],
+      "items": [
+        {
+          "id": 301,
+          "name": "Build a weather app",
+          "contributedBy": "Alice",
+          "status": "approved"
+        },
+        {
+          "id": 302,
+          "name": "Create a task manager",
+          "contributedBy": "Bob",
+          "status": "approved"
+        },
+        {
+          "id": 303,
+          "name": "Develop a chat app",
+          "contributedBy": "Charlie",
+          "status": "pending"
+        },
+        {
+          "id": 304,
+          "name": "Design a portfolio website",
+          "contributedBy": "Alice",
+          "status": "approved"
+        },
+        {
+          "id": 305,
+          "name": "Make a game",
+          "contributedBy": "Bob",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Food",
+      "owner": "OwnerName",
+      "coAuthors": [],
+      "items": []
+    },
+    {
+      "id": 5,
+      "name": "fsfsf",
+      "owner": "OwnerName",
+      "coAuthors": [],
+      "items": []
+    },
+    {
+      "id": 6,
+      "name": "fsf",
+      "owner": "OwnerName",
+      "coAuthors": [],
+      "items": []
+    }
+  ]
+}
